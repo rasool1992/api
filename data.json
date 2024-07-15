@@ -1,0 +1,24 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "std_id": 1,
+      "course_name": "JS"
+    },
+    {
+      "id": 1,
+      "std_id": 1,
+      "course_name": "React"
+    }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "name": "Ahmed"
+    },
+    {
+      "id": 2,
+      "name": "Ali"
+    }
+  ]
+}
